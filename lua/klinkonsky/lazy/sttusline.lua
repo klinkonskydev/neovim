@@ -12,9 +12,6 @@ return {
         "NvimTree",
         "lazy",
       },
-      buftypes = {
-        "terminal",
-      },
     },
     components = {
       "mode",

@@ -20,7 +20,6 @@ require("lazy").setup({
   spec = {
     { import = "klinkonsky.lazy" },
   },
-  install = { colorscheme = { "desert" } },
   checker = { enabled = false },
   change_detection = { notify = false }
 })
